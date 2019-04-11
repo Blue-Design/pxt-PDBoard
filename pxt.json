@@ -1,0 +1,16 @@
+{
+    "name": "pxt-PDBoard",
+    "version": "0.0.1",
+    "description": "Extension for PDBoard",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
